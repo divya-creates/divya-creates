@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Divya 👋
 
-<!--
-**divya-creates/divya-creates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Student | Web Developer | AI & ML Learner
 
-Here are some ideas to get you started:
+💻 Interested in Web Development  
+🤖 Currently learning AI & Machine Learning  
+📚 Building projects and improving my skills  
+🚀 Open to learning and new opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- HTML
+- CSS
+- JavaScript
+- React
+- Python
+- Git & GitHub
+
+## Currently Learning
+- AI & Machine Learning
+- Data Science
+
+## Connect With Me
+- LinkedIn: Coming soon## 
